@@ -1,13 +1,13 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  title: MyString
-  description: MyText
-  image_url: MyString
-  price: 9.99
+  title: ruby programs
+  description: If you need to get working programs on ruby.
+  image_url: ruby.png
+  price: 49.50
 
-two:
-  title: MyString
-  description: MyText
-  image_url: MyString
-  price: 9.99
+ruby:
+  title: Node Pair
+  description: Make a node team
+  image_url: ruby.png
+  price: 49.50
